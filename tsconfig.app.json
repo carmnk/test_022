@@ -26,7 +26,6 @@
     "noUnusedLocals": false,
     "noUnusedParameters": false,
     "noFallthroughCasesInSwitch": false,
-    "types": ["jest", "node"]
   },
   "include": ["src"]
 }
