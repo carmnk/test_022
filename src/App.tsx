@@ -1,3 +1,4 @@
+import React from "react
 import { useMemo } from 'react'
 import { HtmlRenderer } from './_renderer/renderer/HtmlRenderer'
 import { useEditorController } from './_renderer/editorController/editorController'
